@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=054d78b9_002D63e9_002D4722_002D9337_002D33f4718730c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.HotelTests.CanGetHotelByName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.HotelTests.CanGetHotelByName_NotFoundIsReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.HotelTests.CanAddNewHotel&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.BookingsTests.CanGetHotelByName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.BookingsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.RoomsTests.ValidRequestReturnsAvailableRooms&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.RoomsTests.NoRoomWithRequiredCapacityFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.RoomsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DE63EF71-FC37-4E14-B8B0-D2D4908291D9::net6.0::HotelApp.Tests.HotelTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
